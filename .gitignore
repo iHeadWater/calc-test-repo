@@ -1,0 +1,49 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Complexity
+output/*.html
+output/*/index.html
+
+# Sphinx
+docs/_build
+
+#Jupyter
+ipynb_checkpoints
+calc-test-repo/.ipynb_checkpoints/calc-test-repo-checkpoint.py
+docs/.ipynb_checkpoints/gen_ref_pages-checkpoint.py
+test/.ipynb_checkpoints/__init__-checkpoint.py
+.ipynb_checkpoints/requirements-checkpoint.txt
